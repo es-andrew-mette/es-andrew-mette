@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew.
-- 👀 I’m interested in testing, web service architecture, automation, and art created through technology
-- 🌱 I’m currently the team lead of GSD, which owns RentOps.
-- 💞️ I’m looking to collaborate on anywhere I can help.
+- 👀 I’m interested in testing and philosophies therein, web service architecture, automation, and art created through technology
+- 🌱 I’m currently the team lead of GSD, which owns RentOps. I try to offer guidance and set good patterns of behavior more than control what code is written or how it is written.
+- 💞️ I’m looking to collaborate anywhere I can help.
 - 📫 How to reach me: slack is preferable inside ES and email if you're outside of ES
 
 <!---
