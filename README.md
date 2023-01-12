@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Andrew.
-- 👀 I’m interested in testing, web api's, automation
-- 🌱 I’m currently learning the basics here at ES
-<!---
-- 💞️ I’m looking to collaborate on ...
---->
-- 📫 How to reach me: slack is preferable
+- 👀 I’m interested in testing, web service architecture, automation, and art created through technology
+- 🌱 I’m currently the team lead of GSD, which owns RentOps.
+- 💞️ I’m looking to collaborate on anywhere I can help.
+- 📫 How to reach me: slack is preferable inside ES and email if you're outside of ES
 
 <!---
 es-andrew-mette/es-andrew-mette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
